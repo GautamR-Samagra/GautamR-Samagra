@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GautamR-Samagra
-- 👀 I’m working for the DataGov team at SamagraX
+- 👀 I’m working for the Engineering team at Samagra Governance
 - 📫 How to reach me: gautam@samagragovernance.in
 - All my work is at https://github.com/DataGov-SamagraX
 
